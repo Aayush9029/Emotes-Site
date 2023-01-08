@@ -41,7 +41,7 @@ features:
 
   - title: GIF Support
     description: Get access to hundreds of thousands of GIFS from thousands of twitch channels.
-    fontawesome_icon_name: gif
+    fontawesome_icon_name: image
 
   - title: Keyboard Extension
     description: Use the keyboard extension to quickly search for emotes and copy them to your clipboard and paste them anywhere.
