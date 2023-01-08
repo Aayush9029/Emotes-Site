@@ -33,19 +33,19 @@ youtube_username: NerdAware
 features:
   - title: FFZ Emotes
     description: FrankerFaceZ is a Twitch extension that lets any broadcaster add custom emotes to their channel. Emotes allows your to use those emotes outside of Twitch.
-    fontawesome_icon_name: hexagon-image
+    fontawesome_icon_name: image
 
   - title: BTTV Emotes
     description: BTTV, also known as BetterTTV, is a third-party browser extension that allows viewers to use emotes and animated spots in Twitch chat. Emotes allows your to use those emotes outside of Twitch.
-    fontawesome_icon_name: image-polaroid
+    fontawesome_icon_name: image
 
   - title: GIF Support
     description: Get access to hundreds of thousands of GIFS from thousands of twitch channels.
     fontawesome_icon_name: gif
 
   - title: Keyboard Extension
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name: sync
+    description: Use the keyboard extension to quickly search for emotes and copy them to your clipboard and paste them anywhere.
+    fontawesome_icon_name: keyboard
 
 # Theme Settings
 topbar_color: "#000000"
