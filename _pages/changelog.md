@@ -45,9 +45,8 @@ Emotes lets you browse through millions of emotes and copy the raw GIF or image 
 - Fixed a bug where the app would sometimes hang when searching for an emote with non-English characters.
 - Performance improvements.
 
-<br>
 
-### **Version 1**
+# **Version 1**
 
 👋 Initial Release
 
