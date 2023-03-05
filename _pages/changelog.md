@@ -31,7 +31,7 @@ Emotes lets you browse through millions of emotes and copy the raw GIF or image 
 
 # **Version 2.0**
 
-⚡ Extremely Huge JUICED UP update!
+🧃 Extremely Huge JUICED UP update!
 
 #### What's New
 
