@@ -12,9 +12,26 @@ Emotes lets you browse through millions of emotes and copy the raw GIF or image 
 
 ### `Latest`
 
+# **Version 2.1**
+
+🐞 Bug fixes and improvements
+
+#### What's New
+- Ability to clear recent emotes.
+- Small performance boost on older devices.
+- Re-worked internal gif engine.
+- Update and Upgrade internals.
+- Making things ready for a brand new update.. *hint* 7TV is coming... 0.0
+
+#### Bug Fixes
+
+- Fixed issue where top and trending pages weren't rendered.
+- Fixed issue where FFZ emotes weren't displayed.
+- Fixed issue where copying emote as Image / GIF made the size bigger *oops*
+
 # **Version 2.0**
 
-Extremely Huge JUICED UP update!
+⚡ Extremely Huge JUICED UP update!
 
 #### What's New
 
@@ -32,7 +49,7 @@ Extremely Huge JUICED UP update!
 
 ### **Version 1**
 
-Initial Release
+👋 Initial Release
 
 #### What's New
 
